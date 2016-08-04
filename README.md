@@ -1,5 +1,5 @@
-(https://github.com/Sheena-Marie/job-board-cfa)Link to the job board code.
-(https://github.com/Sheena-Marie/cfa-job-board)Link to First attempt at the job board.
+Link(https://github.com/Sheena-Marie/job-board-cfa) to the job board code.
+Link(https://github.com/Sheena-Marie/cfa-job-board) to First attempt at the job board.
 
 #Problem/Solution summary
 
