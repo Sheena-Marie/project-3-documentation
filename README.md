@@ -1,13 +1,13 @@
 #TILT TAKE HOME CODING CHALLENGE
 
-[Link](https://github.com/Sheena-Marie/tilt-ex) to the Code and the README
+[Link](https://github.com/Sheena-Marie/tilt-ex) to the Code and the README with problem outlined.
 [Link](https://desolate-oasis-57929.herokuapp.com) to the deployed app on Heroku
 
 
 #CODERFACTORY JOB BOARD
 
 [Link](https://github.com/Sheena-Marie/job-board-cfa) to the job board code.
-[Link](https://github.com/Sheena-Marie/cfa-job-board) to First attempt at the job board.
+[Link](https://github.com/Sheena-Marie/cfa-job-board) to First attempt at the job board - abandoned.
 
 #Problem/Solution summary
 
